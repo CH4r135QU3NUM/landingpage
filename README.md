@@ -1,4 +1,4 @@
 # landingpage
 
 
-Utilisation d'un thèùe Boostrap pour une landing page !
+Utilisation d'un thème Boostrap pour une landing page !
